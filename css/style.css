@@ -1,0 +1,18 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightblue;
+    font-size: 120;
+    text-align: center;
+}
+
+.servier {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: crimson;
+    font-size: 30;
+    text-align: center;
+    size: 40;
+}
+
+.c{
+    font-size: 150;
+}
